@@ -2,8 +2,8 @@
 
 I'm a Software QA Engineer and MSIS graduate, enthusiastic about building scalable systems and solving real-world problems through technology.
 
-📫 Reach me at: [sudarshanreddyc@gmail.com](mailto:sudarshanreddyc@gmail.com)  
-📄 [My Resume](https://your-resume-link)  
+📫 Reach me at: [sudarshanreddyc@gmail.com](mailto:sudarshanreddy.c123@gmail.com)  
+📄 [My Resume](https://drive.google.com/file/d/1XequW_4aNLcjkHbOIJ2fFVx1ZT2LjciV/view?usp=drive_link)  
 🌐 [LinkedIn](https://linkedin.com/in/your-profile) • [GitHub](https://github.com/your-profile)
 
 ---
@@ -23,7 +23,7 @@ I'm a Software QA Engineer and MSIS graduate, enthusiastic about building scalab
 
 ### 🧠 About Me
 
-- 🎓 Master’s in Information Science | Graduating Dec 2025  
+- 🎓 Master’s in Information Systems  
 - 🔭 Currently working on: Salesforce CRM Optimization, API Automation  
 - ⚡ Fun fact: I enjoy debugging more than coding (sometimes 😄)
 
