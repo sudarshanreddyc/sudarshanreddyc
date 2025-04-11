@@ -38,16 +38,16 @@ Migrated UI from Knockout.js to React, improving page load speed by **25%** and 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sudarshanreddyc&show_icons=true&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api?username=sudarshanreddyc&show_icons=true&theme=default" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshanreddyc&layout=compact&langs_count=12&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshanreddyc&layout=compact&langs_count=12&theme=default" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sudarshanreddyc&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sudarshanreddyc&theme=default&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
