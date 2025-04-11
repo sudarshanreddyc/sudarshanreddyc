@@ -2,7 +2,7 @@
 
 Software Engineer with 4+ years of experience in developing scalable microservices, cloud-native solutions, and AI/ML models using Python. Skilled in system design, data structures, and algorithms, with a track record of building high-performance applications and collaborating with cross-functional teams in Agile environments.
 
-![Profile views](https://komarev.com/ghpvc/?username=sudarshanreddyc&color=blueviolet)
+![Profile views](https://komarev.com/ghpvc/?username=sudarshanreddyc&color=blueviolet&style=flat&label=Profile+Views&start=1800)
 
 📫 Reach me at: [sudarshanreddy.c123@gmail.com](mailto:sudarshanreddy.c123@gmail.com)  
 📄 [My Resume](https://drive.google.com/file/d/1XequW_4aNLcjkHbOIJ2fFVx1ZT2LjciV/view?usp=drive_link)  
