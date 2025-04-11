@@ -2,22 +2,36 @@
 
 Software Engineer with 4+ years of experience in developing scalable microservices, cloud-native solutions, and AI/ML models using Python. Skilled in system design, data structures, and algorithms, with a track record of building high-performance applications and collaborating with cross-functional teams in Agile environments.
 
+![Profile views](https://komarev.com/ghpvc/?username=sudarshanreddyc&color=blueviolet)
+
 📫 Reach me at: [sudarshanreddy.c123@gmail.com](mailto:sudarshanreddy.c123@gmail.com)  
 📄 [My Resume](https://drive.google.com/file/d/1XequW_4aNLcjkHbOIJ2fFVx1ZT2LjciV/view?usp=drive_link)  
 🌐 [Portfolio](https://sudarshanreddyc.github.io/portfolio/)
 
 ---
 
+### 🤝 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/sudarshan68/)  
+- [LeetCode](https://leetcode.com/u/sudarshanreddyc/)  
+- [GitHub](https://github.com/sudarshanreddyc)
+
+---
+
 ### 🛠️ Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,react,azure,docker,git,jira,linux,sql,postman,jenkins,html,css,csharp,cpp,nodejs,nextjs&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,azure,docker,git,jira,linux,sql,postman,jenkins,html,css,csharp,cpp,nodejs,nextjs&perline=10" />
 
 ---
 
 ### 📊 GitHub Stats
 
 ![Sudarshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudarshanreddyc&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshanreddyc&layout=compact&langs_count=10&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshanreddyc&layout=compact&langs_count=12&theme=radical)  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sudarshanreddyc&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -56,12 +70,5 @@ Software Engineer with 4+ years of experience in developing scalable microservic
 
 - **Bank Loan Default Prediction** ([GitHub](https://github.com/sudarshanreddyc/LoanDefaultPrediction))  
   Built an ML model in R with 96% accuracy on 100K+ records for financial risk automation.
-
----
-
-### 🤝 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/sudarshan68/)  
-- [LeetCode](https://leetcode.com/u/sudarshanreddyc/)
 
 ---
