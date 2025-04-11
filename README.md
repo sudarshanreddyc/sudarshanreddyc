@@ -4,6 +4,15 @@ Software Engineer with 4+ years of experience in developing scalable microservic
 
 ![Profile views](https://komarev.com/ghpvc/?username=sudarshanreddyc&color=blueviolet&style=flat&label=Profile+Views&count_private=true&start=1800)
 
+---
+
+### 🚀 Highlight Achievement
+
+**Led UI Migration of Angles for SAP**  
+Migrated UI from Knockout.js to React, improving page load speed by **25%** and contributing to client acquisition worth **over $1M**.
+
+---
+
 📫 Reach me at: [sudarshanreddy.c123@gmail.com](mailto:sudarshanreddy.c123@gmail.com)  
 📄 [My Resume](https://drive.google.com/file/d/1XequW_4aNLcjkHbOIJ2fFVx1ZT2LjciV/view?usp=drive_link)  
 🌐 [Portfolio](https://sudarshanreddyc.github.io/portfolio/)
@@ -52,10 +61,7 @@ Software Engineer with 4+ years of experience in developing scalable microservic
 
 ---
 
-### 🏆 Certifications & Achievements
-
-- **Led UI Migration of Angles for SAP**  
-  Migrated UI from Knockout.js to React, improving page load speed by 25% and contributing to client acquisition worth **over $1M**.
+### 🏆 Certifications & Additional Achievements
 
 - **Problem Solving (Intermediate)** — *HackerRank*  
   [Certificate](https://www.hackerrank.com/certificates/2723d700e997)
