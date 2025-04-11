@@ -1,38 +1,67 @@
 # Hi, I'm Sudarshan Reddy Chennamareddygari 👋
 
-I'm a Software QA Engineer and MSIS graduate, enthusiastic about building scalable systems and solving real-world problems through technology.
+Software Engineer with 4+ years of experience in developing scalable microservices, cloud-native solutions, and AI/ML models using Python. Skilled in system design, data structures, and algorithms, with a track record of building high-performance applications and collaborating with cross-functional teams in Agile environments.
 
-📫 Reach me at: [sudarshanreddyc@gmail.com](mailto:sudarshanreddy.c123@gmail.com)  
+📫 Reach me at: [sudarshanreddy.c123@gmail.com](mailto:sudarshanreddy.c123@gmail.com)  
 📄 [My Resume](https://drive.google.com/file/d/1XequW_4aNLcjkHbOIJ2fFVx1ZT2LjciV/view?usp=drive_link)  
-🌐 [LinkedIn](https://linkedin.com/in/your-profile) • [GitHub](https://github.com/your-profile)
+🌐 [Portfolio](https://sudarshanreddyc.github.io/portfolio/)
 
 ---
 
 ### 🛠️ Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,react,sql,azure,git,docker,linux&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,azure,docker,git,jira,linux,sql,postman,jenkins,html,css,csharp,cpp,nodejs,nextjs&perline=8" />
 
 ---
 
 ### 📊 GitHub Stats
 
-![Sudarshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SudarshanReddyC&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SudarshanReddyC&layout=compact&theme=radical)
+![Sudarshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudarshanreddyc&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshanreddyc&layout=compact&langs_count=10&theme=radical)
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 Master’s in Information Systems  
-- 🔭 Currently working on: Salesforce CRM Optimization, API Automation  
-- ⚡ Fun fact: I enjoy debugging more than coding (sometimes 😄)
+- 🎓 Master’s in Information Studies @ Trine University (GPA: 3.9)  
+- 💻 Experienced in React, .NET Core, Azure DevOps, Docker, CI/CD  
+- ⚙️ Passionate about scalable design, automation, and system performance  
+- 📈 Always learning, always building
 
 ---
 
-### 📚 Skills
+### 🏆 Certifications & Achievements
 
-**Languages:** Python, Java, JavaScript, SQL  
-**Frameworks:** React, .NET Core  
-**Tools:** Git, Postman, JIRA, Jenkins  
-**Cloud:** Azure, AWS  
-**Testing:** PyTest, Selenium, JMeter  
+- **Led UI Migration of Angles for SAP**  
+  Migrated UI from Knockout.js to React, improving page load speed by 25% and contributing to client acquisition worth **over $1M**.
+
+- **Problem Solving (Intermediate)** — *HackerRank*  
+  [Certificate](https://www.hackerrank.com/certificates/2723d700e997)
+
+- **Python Development Suite** — *Simplilearn*  
+  [Certificate](https://drive.google.com/file/d/10z_c4V7KogzmPktiFfwd1Nq-d9y84Lvw/view?usp=drive_link)
+
+- **Best Team – Odessa Hackathon**  
+  [AI Requirement Extractor (GitHub)](https://github.com/sudarshanreddyc/ai-requirement-extractor)  
+  • Built an LLM-powered extractor using React.js + Mistral-7B (Hugging Face)  
+  • Improved requirements extraction by 70% and reduced API latency by 40%  
+  • Designed a credit-based execution model with batching and caching
+
+---
+
+### 💼 Notable Projects
+
+- **Real-Time Chat App** ([GitHub](https://github.com/sudarshanreddyc/socketio-new))  
+  Live messaging using WebSockets with <100ms latency across multiple sessions.
+
+- **Bank Loan Default Prediction** ([GitHub](https://github.com/sudarshanreddyc/LoanDefaultPrediction))  
+  Built an ML model in R with 96% accuracy on 100K+ records for financial risk automation.
+
+---
+
+### 🤝 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/sudarshan68/)  
+- [LeetCode](https://leetcode.com/u/sudarshanreddyc/)
+
+---
