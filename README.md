@@ -2,7 +2,7 @@
 
 Software Engineer with 4+ years of experience in developing scalable microservices, cloud-native solutions, and AI/ML models using Python. Skilled in system design, data structures, and algorithms, with a track record of building high-performance applications and collaborating with cross-functional teams in Agile environments.
 
-![Profile views](https://komarev.com/ghpvc/?username=sudarshanreddyc&color=blueviolet&style=flat&label=Profile+Views&start=1800)
+![Profile views](https://komarev.com/ghpvc/?username=sudarshanreddyc&color=blueviolet&style=flat&label=Profile+Views&count_private=true&start=1800)
 
 📫 Reach me at: [sudarshanreddy.c123@gmail.com](mailto:sudarshanreddy.c123@gmail.com)  
 📄 [My Resume](https://drive.google.com/file/d/1XequW_4aNLcjkHbOIJ2fFVx1ZT2LjciV/view?usp=drive_link)  
@@ -24,10 +24,18 @@ Software Engineer with 4+ years of experience in developing scalable microservic
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Insights
 
-![Sudarshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudarshanreddyc&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshanreddyc&layout=compact&langs_count=12&theme=radical)  
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sudarshanreddyc&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshanreddyc&layout=compact&langs_count=12&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sudarshanreddyc&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
