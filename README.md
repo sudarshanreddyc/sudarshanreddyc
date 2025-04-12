@@ -10,8 +10,8 @@ I am actively seeking full-time or internship opportunities in software developm
 
 ### 🚀 Highlight Achievement
 
-**Led UI Migration of Angles for SAP**  
-Migrated UI from Knockout.js to React, improving page load speed by **25%** and contributing to client acquisition worth **over $1M**.
+**Led the Migration of Angles for SAP**  
+Migrated UI from Knockout.js to React and refactored microservices, improving page load speed by **25%** and contributing to client acquisition worth **over $1M**.
 
 ---
 
