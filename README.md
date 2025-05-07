@@ -1,6 +1,6 @@
 # Hi, I'm Sudarshan Reddy Chennamareddygari 👋
 
-Software Engineer with 4+ years of experience in developing scalable microservices, cloud-native solutions, and AI/ML models using Python. Skilled in system design, data structures, and algorithms, with a track record of building high-performance applications and collaborating with cross-functional teams in Agile environments.
+Software Engineer with 5 years of experience in developing scalable microservices, cloud-native solutions, and AI/ML models using Python. Skilled in system design, data structures, and algorithms, with a track record of building high-performance applications and collaborating with cross-functional teams in Agile environments.
 
 I am actively seeking full-time or internship opportunities in software development field.
 
